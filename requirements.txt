@@ -1,0 +1,6 @@
+pymongo
+google-cloud-bigquery
+google-cloud-storage
+pandas
+matplotlib
+python-dotenv
